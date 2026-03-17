@@ -1,0 +1,25 @@
+[
+  {
+    "date": "AUG 2024 - PRESENT",
+    "date_start": "PRESENT",
+    "date_end": "AUG 2024 - ",
+    "title": "China Unicom | Cloud Computing Product Manager",
+    "content": "Responsible for the full-process design of Unicom's cloud products, transforming complex underlying technologies into standardized, scalable, and easy-to-use business services. "
+  },
+  {
+    "date": "JUL 2023 - Dec 2024",
+    "date_start": "DEC 2024",
+    "date_end": "JUL 2023 - ",
+    "title": "Transsion | AIGC Product Manager Intern",
+    "content": "Establish a text-to-image model evaluation system and complete multiple rounds of evaluation and testing. provide optimization suggestions based on the results, collaborate with the algorithm team to develop optimization plans, and follow up on the implementation and iteration.",
+    "links": []
+  },
+  {
+    "date": "Apr 2023 - JUL 2023",
+    "date_start": "JUL 2023",
+    "date_end": "APR 2023 -  ",
+    "title": "JIDU Auto | Autonomous Driving Product Manager Intern",
+    "content": "Responsible for building the intelligent driving scenario library, participating in the functional definition of the intelligent driving system, user demand research, and interface optimization.",
+    "links": []
+  }
+]
